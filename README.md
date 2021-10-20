@@ -2,7 +2,7 @@
 
 Summary: Overall, I would like to finish the research and fill up the information as following for all 5 locations. I was not able to finish them all due to limited of time. I plan to analysis the data by using the R to do the data visulization for the distance and rating of all 5 locations for these 50 restarant to see if I can draw some conclusion from that. I plan also do the samething to the bi-weekly event for all 5 locations. After doing the data visulization, I think I can draw a conclusion of which location is most sutible for this project.
 
-The following is part of the sample of location 1 that I finished:
+The following is part of the sample of location 1 that I finished. there should be 4 more of these and 10 more figurs(5 for 50 restarant, and 5 for 25 bi-weekly events):
 
 Location 1: Name: IUPUI. Address:415 Porto Alegre St, Indianapolis, IN 46202. Type: Housing
 
